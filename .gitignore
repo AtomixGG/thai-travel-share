@@ -2,3 +2,10 @@
 __pycache__
 *.pyc
 .vscode
+.env
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+thaitravelshare.db
